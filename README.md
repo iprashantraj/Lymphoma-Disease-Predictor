@@ -3,7 +3,7 @@
 A web application for the classification of lymphoma subtypes from microscopy images. Built with **Streamlit**.
 
 ## 🚀 Live Demo
-Access the app here: **[Lymphoma-Predictor (Streamlit Cloud)](https://streamlit.io)**
+Access the app here: **[Lymphoma-Predictor (Streamlit Cloud)]([https://streamlit.io](https://lymphoma-disease-predictor.streamlit.app/))**
 
 ## 🌟 Key Features
 - **High-Accuracy Classification**: Predicts between 4 lymphoma stages: `Pre`, `Benign`, `Pro`, and `Early`.
