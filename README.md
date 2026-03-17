@@ -1,9 +1,9 @@
 # Lymphoma Disease Predictor 🔬
 
-An AI-powered web application for the classification of lymphoma subtypes from microscopy images. Built with **Streamlit** and **Random Forest**.
+A web application for the classification of lymphoma subtypes from microscopy images. Built with **Streamlit**.
 
 ## 🚀 Live Demo
-Access the app here: **[Lymphoma-Predictor (Streamlit Cloud placeholder)](https://streamlit.io)**
+Access the app here: **[Lymphoma-Predictor (Streamlit Cloud)](https://streamlit.io)**
 
 ## 🌟 Key Features
 - **High-Accuracy Classification**: Predicts between 4 lymphoma stages: `Pre`, `Benign`, `Pro`, and `Early`.
@@ -49,4 +49,4 @@ Access the app here: **[Lymphoma-Predictor (Streamlit Cloud placeholder)](https:
 ```
 
 ---
-*Developed for the BML Case Study (Lymphoma Subtype Detection).*
+*Developed for the ML Case Study (Lymphoma Subtype Detection).*
